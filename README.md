@@ -37,11 +37,14 @@ Digital business cards
 Networking events
 Smart badges
 Contactless sharing
+
 📸 Preview
+
 
 <img width="1022" height="832" alt="FrontView" src="https://github.com/user-attachments/assets/0ca97043-d34b-4c35-bc13-140c0b57c0a9" />
 
 <img width="898" height="720" alt="BackView" src="https://github.com/user-attachments/assets/2cfc1193-02c9-45d1-99ea-53de1a485ef1" />
+
 
 📜 License
 
